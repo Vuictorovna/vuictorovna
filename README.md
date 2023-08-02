@@ -23,7 +23,7 @@ I am excited about the opportunity to apply my skills in a real-world setting an
 
 ## Get in touch
 
-Find me on other platforms: [GitHub](https://github.com/Vuictorovna) & [LinkedIn](https://www.linkedin.com/in/volha-sakharevich/)
+Find me on other platforms: [LinkedIn](https://www.linkedin.com/in/volha-sakharevich/)
 
 <!--
 **Vuictorovna/vuictorovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
