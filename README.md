@@ -15,7 +15,7 @@ Specifically, I am currently seeking a **junior role or apprenticeship in backen
 I am excited about the opportunity to apply my skills in a real-world setting and contribute towards building innovative tech solutions.
 
 ---
-## Languages and Tools I'm Using
+<!-- ## Languages and Tools I'm Using -->
 
   
           
